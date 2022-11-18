@@ -41,7 +41,7 @@ I am 24 years old and I am a IT Security Enthusiast who graduated in 2021. My gr
 </div>
 
 <div align="center">
-<a href="https://linkedin.com/in/abdoachhoubi](https://www.linkedin.com/in/gayugumelar21" target="_blank">
+<a href="https://www.linkedin.com/in/gayugumelar21" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/gayugumelar" target="_blank">
