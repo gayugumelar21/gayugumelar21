@@ -13,6 +13,7 @@ I am 24 years old and I am a IT Security Enthusiast who graduated in 2021. My gr
 - 😄 Pronouns: He/Him
 
 ### Languages ⭐:
+  ![C++](https://img.shields.io/badge/-C++-0D1117?style=flat&logo=c)&nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat&logo=php)&nbsp;
   ![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python)&nbsp;
   
