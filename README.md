@@ -13,9 +13,7 @@ I am 24 years old and I am a IT Security Enthusiast who graduated in 2021. My gr
 - 😄 Pronouns: He/Him
 
 ### Languages ⭐:
-  ![C++](https://img.shields.io/badge/-C++-0D1117?style=flat&logo=c)&nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat&logo=php)&nbsp;
-  ![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python)&nbsp;
   
 ### Frameworks ♻️:
   ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=flat&logo=laravel)&nbsp;
@@ -28,7 +26,6 @@ I am 24 years old and I am a IT Security Enthusiast who graduated in 2021. My gr
   ![Kali Linux](https://img.shields.io/badge/KaliLinux-0D1117?style=flat&logo=kali-linux)&nbsp;
   
 ### Others ⚓:
-  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat&logo=figma)&nbsp;
   
