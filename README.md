@@ -5,7 +5,7 @@
 <br />
 
 ### About me 💬:
-I am 24 years old and I am a IT Security Enthusiast who graduated in 2021. My greatest strength in technical terms is problem solving and logical thinking. I am also very enthusiastic and interested to use or learn new things.
+I am 25 years old and I am a IT Security Enthusiast who graduated in 2021. My greatest strength in technical terms is problem solving and logical thinking. I am also very enthusiastic and interested to use or learn new things.
 
 - 🔭 I’m a Web Developer and Pentester.
 - 👯 I’m willing to work fully remote.
